@@ -3,6 +3,11 @@
   flex-direction: column;
 }
 
+h1 {
+  color: #3361BB;
+  font-weight: 900;
+}
+
 .start{
   margin-top: 50px;
   align-self: center;
@@ -13,13 +18,14 @@
   color: white;
   font-weight: bold;
   background-color: red;
-  border-color: white;
+  border-color: #E9D607;
   border-radius: 10px;
 }
 
 .timer{ 
   font-family: 'Press Start 2P', cursive;
   font-size: 3em;
+  color: #3361BB;
 }
 
 .pokeWrap{
@@ -36,5 +42,6 @@
   font-family: 'Press Start 2P', cursive;
   text-transform: uppercase;
   margin-top: -50px;
+  color: red;
 }
 
